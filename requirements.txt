@@ -1,0 +1,9 @@
+# Core Dependencies
+python-dotenv
+websockets
+requests
+eth-account
+
+# Hyperliquid SDK
+hyperliquid-python-sdk
+
